@@ -20,12 +20,16 @@
 #mypic{
     height: 345px;
     width: 300px;
-    border-radius: 2.25rem;
-    margin-left: 13em;
-    margin-top: 4em;
+    border-radius: 2.25em;
+    max-width:100%; 
+    margin-left: 5em;
+
 }
-#text{
-    padding-top: 4em;
+
+
+
+.text{
+    padding-top: 3em;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
@@ -40,7 +44,7 @@
 }
 
 .skillcards{
-    padding-left: 145px;
+    padding-left: 75px;
     padding-top: 35px;
     
 }
